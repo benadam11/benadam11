@@ -1,6 +1,6 @@
 # Hello, my name is Ben. I am a Designer / Developer living in Tempe, AZ.
 
-I am currently working at [GoDaddy](https://github.com/godaddy) as a UX Engineer working on the website builder platform. 
+I am currently working at [Amazon](https://amazon.design/) as a Design Technologist working in the Devices Org. 
 
 
 ### Side Projects:
