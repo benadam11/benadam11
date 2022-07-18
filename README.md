@@ -1,6 +1,6 @@
 # Hello, my name is Ben. I am a Designer / Developer living in Tempe, AZ.
 
-I am currently working at [Amazon](https://amazon.design/) as a Design Technologist working in the Devices Org. 
+I am currently working at [uidotdev](https://ui.dev/) helping people level up with JavaScript. 
 
 
 ### Side Projects:
